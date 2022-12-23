@@ -7,7 +7,7 @@ Internship Duration - 6 Months (April 2022 - October 2022)
 
 - For some Projects data set was given while for other projects webscraping was done using Selenium or beautifulSoup before model building.
 - For each project detailed project report and presentation has been prepared along with ML Model juypter Notebook which you can find in respective project folder.
-- 
+
 During the internship, I have worked on several Web Scraping, Machine Learning and Natural Language Processing (NLP) projects as mention below:
 
 Worksheet Assignments:
