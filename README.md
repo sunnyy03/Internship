@@ -28,7 +28,6 @@ Worksheet_set5 : Web Scraping Assignment 4 (Selenium)
 
 Machine Learning (ML) Projects: 
 
-https://github.com/sunnyy03/Internship/tree/main/Customer%20Retention
 Micro Credit Defaulter {Dataset is provided}
 Used Car price predication using ML {Data is scraped using Selenium before Model Building}
 Customer Retention in Ecommerce sector {Dataset is provided}
@@ -37,5 +36,6 @@ Surprise Housing - Housing Price Predication & Analysis Project {Data is provide
 
 
 Natural Language Processing (NLP) Projects:
+
 Product Review Rating Predication Using NLP {Data is scraped using Selenium before Model Building}
 Malignant Commentes Classifier - Multi Label Classification Project using NLP {Dataset is provided}
